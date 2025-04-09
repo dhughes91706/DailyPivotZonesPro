@@ -1,6 +1,8 @@
 Updated README with full documentation
 
-# DailyPivotZonesPro
+<p align="center">
+  <img src="ai-mentor-banner.png" alt="AI Mentor Banner" width="100%" />
+</p>
 
 A TradeStation strategy for intraday traders that automates the plotting of daily pivot points, Fibonacci extensions, and dynamically generated support/resistance zones.
 
